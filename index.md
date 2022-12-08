@@ -19,4 +19,5 @@ My GitHub page is http://github.com/royalconex.
 * Lab 8
 
     Lab 8, part 1 was a favorite because I learned new concepts which I had struggled to understand until using them in the lab. Creating functions and calling them, using strings, and seeing the usage of if statements were all new for me to learn. While it took a lot of trial and error to get everything to work, Im proud to have eventually made the code work.
-    
+
+![The gradient image from Lab 10](images/gradient.png)
